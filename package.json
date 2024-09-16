@@ -1,0 +1,20 @@
+{
+  "name": "testhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-codeceptjs": "^3.0.0-beta.12",
+    "codeceptjs": "^3.6.5",
+    "playwright": "^1.47.1"
+  },
+  "dependencies": {
+    "codeceptjs-testrail": "^1.10.13"
+  }
+}
